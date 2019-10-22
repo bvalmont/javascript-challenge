@@ -1,3 +1,4 @@
+![](https://www.bing.com/th?id=OIP.ZtgODja1Ob5tu2vZz7KQ9wHaE8&w=288&h=183&c=7&o=5&pid=1.7)
 # Javascript-Challenge
 
 ## The purpose of this project is to build a HTML webpage which contains a table with six columns of data that can be filtered based on the date colum with the use of JavaScript to build the table, filter the data, and re-build the table based on the input box and button click.
